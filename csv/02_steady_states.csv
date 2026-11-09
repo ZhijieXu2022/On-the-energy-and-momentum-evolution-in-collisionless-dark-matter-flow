@@ -1,0 +1,18 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Steady (power-law) states of the cosmic energy equation, n = -1",,,
+#Ref. [1],https://doi.org/10.48550/arXiv.2202.04054,"Xu 2022, arXiv:2202.04054",,
+#Ref. [2],https://doi.org/10.5281/zenodo.6541231,Dark matter flow dataset Part I (halo-based statistics),,
+#Ref. [3],https://doi.org/10.5281/zenodo.6757654,Dark matter flow dataset Part II (correlation-based statistics),,
+,,,,
+,,,,
+gamma,n_e,W/K,E/K,(2K+W)/K
+0,-1,-2,-1,0
+1,-1.33333333,-1.5,-0.5,0.5
+1.17,-1.36908517,-1.46082949,-0.460829493,0.539170507
+1.23,-1.38080495,-1.44843049,-0.448430493,0.551569507
+1.5,-1.42857143,-1.4,-0.4,0.6
+3,-1.6,-1.25,-0.25,0.75
+4.5,-1.69230769,-1.18181818,-0.181818182,0.818181818
+6,-1.75,-1.14285714,-0.142857143,0.857142857
+NaN,-2,-1,0,1

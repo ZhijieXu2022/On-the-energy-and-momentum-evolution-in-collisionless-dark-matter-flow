@@ -1,0 +1,17 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,11/2026,,,,
+#Name,"Halo subsystem: momentum per halo particle, totals per box particle, halo mass fraction",,,,
+#Ref. [1],https://doi.org/10.48550/arXiv.2202.04054,"Xu 2022, arXiv:2202.04054",,,
+#Ref. [2],https://doi.org/10.5281/zenodo.6541231,Dark matter flow dataset Part I (halo-based statistics),,,
+#Ref. [3],https://doi.org/10.5281/zenodo.6757654,Dark matter flow dataset Part II (correlation-based statistics),,,
+,,,,,
+,,,,,
+a,<G_h> (halo particles),<|H_h|> (halo particles),M_h<G_h>/(N m_p),M_h<|H_h|>/(N m_p),halo mass fraction
+1,-21.6763635,17.4391007,-13.295427,10.696457,0.613360584
+0.909090909,-18.0400323,14.2669909,-10.5808981,8.36792166,0.586523235
+0.769230769,-13.0599706,9.99523412,-6.96286129,5.32891158,0.533145249
+0.666666667,-9.25641293,7.45573116,-4.44406432,3.57954524,0.480106533
+0.5,-5.09365428,4.27221378,-1.81071932,1.51870928,0.35548532
+0.4,-3.34609789,2.87773123,-0.819488054,0.704781044,0.244908571
+0.333333333,-2.35316675,2.09824872,-0.376614461,0.3358159,0.160045803
+0.25,-1.43250332,1.33910031,-0.0852782317,0.0797178652,0.0595309138

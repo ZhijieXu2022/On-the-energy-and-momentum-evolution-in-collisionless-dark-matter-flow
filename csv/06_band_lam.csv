@@ -1,0 +1,17 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,11/2026,,,,
+#Name,Halo lam: halo-weighted means in size bands vs redshift,,,,
+#Ref. [1],https://doi.org/10.48550/arXiv.2202.04054,"Xu 2022, arXiv:2202.04054",,,
+#Ref. [2],https://doi.org/10.5281/zenodo.6541231,Dark matter flow dataset Part I (halo-based statistics),,,
+#Ref. [3],https://doi.org/10.5281/zenodo.6757654,Dark matter flow dataset Part II (correlation-based statistics),,,
+,,,,,
+,,,,,
+z,"pairs [2, 2]","small [10, 30]","large [100, 300]","larger [300, 1000]","largest [1000, 100000]"
+0,0.270724746,0.0993737579,0.0472869206,0.0430523204,0.0374297641
+0.1,0.217436118,0.0884836244,0.0459603681,0.0420735002,0.034238399
+0.3,0.153792858,0.0736029995,0.0439661514,0.0382595878,0.0327630371
+0.5,0.116992097,0.0658338278,0.041298292,0.0361246635,0.032144903
+1,0.0755438146,0.0555519195,0.0370071169,0.0310512115,NaN
+1.5,0.0609069228,0.049580714,0.0321646345,0.0262426588,NaN
+2,0.054444153,0.0448643321,0.0304890702,0.0173477112,NaN
+3,0.0473396121,0.0396112681,NaN,NaN,NaN

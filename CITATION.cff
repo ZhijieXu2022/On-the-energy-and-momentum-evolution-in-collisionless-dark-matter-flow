@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "On the energy and momentum evolution in collisionless dark matter flow"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24094701"
+    description: "Zenodo archive of the manuscript and data files"
+license: CC-BY-4.0
+version: "2.0"
+date-released: "2026-11-09"
+keywords:
+  - "dark matter"
+  - "N-body simulation"
+  - "cosmic energy equation"
+  - "Layzer-Irvine"
+  - "halo spin"
+  - "virial theorem"
+  - "cosmological simulation"
+  - "structure formation"
+  - "spin parameter"
+  - "angular momentum"
+  - "virialisation"
+  - "kinetic energy"
+  - "Einstein-de Sitter"
